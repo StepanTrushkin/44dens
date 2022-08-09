@@ -48,7 +48,7 @@ body {
 }
 
 .slide.active {
-  flex: 5;
+  flex: 10;
 }
 
 .slide.slide.active h3 {
